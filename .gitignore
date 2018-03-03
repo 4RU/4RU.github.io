@@ -1,4 +1,4 @@
 
 prepros-6.config
 styles/css/main.css.map
-*.sass
+styles/sass/
