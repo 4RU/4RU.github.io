@@ -1,2 +1,2 @@
-# 4ru.github.io
+# [mfaishal.com](https://mfaishal.com/)
 My portfolio
